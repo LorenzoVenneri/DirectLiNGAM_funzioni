@@ -1,3 +1,12 @@
+"""
+Code developed for the Bachelor's thesis:
+
+"Causal Discovery with DirectLiNGAM: Experimental Evaluation of Ordering Heuristics"
+
+Author: Lorenzo Venneri
+University of Milano-Bicocca
+Year: 2026
+"""
 import numpy as np
 import pandas as pd
 import time
